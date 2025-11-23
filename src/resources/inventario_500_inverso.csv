@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Gasas 10x10;500
+ITEM-0002;Venda Elástica 5cm;499
+ITEM-0003;Alcohol 70% 1L;498
+ITEM-0004;Gasas 10x10;497
+ITEM-0005;Venda Elástica 5cm;496
+ITEM-0006;Mascarilla KN95;495
+ITEM-0007;Algodón 100g;494
+ITEM-0008;Gasas 10x10;493
+ITEM-0009;Alcohol 70% 1L;492
+ITEM-0010;Mascarilla KN95;491
+ITEM-0011;Algodón 100g;490
+ITEM-0012;Venda Elástica 5cm;489
+ITEM-0013;Gasas 10x10;488
+ITEM-0014;Alcohol 70% 1L;487
+ITEM-0015;Algodón 100g;486
+ITEM-0016;Venda Elástica 5cm;485
+ITEM-0017;Guante Nitrilo Talla M;484
+ITEM-0018;Venda Elástica 5cm;483
+ITEM-0019;Mascarilla KN95;482
+ITEM-0020;Gasas 10x10;481
+ITEM-0021;Jeringa 5ml;480
+ITEM-0022;Venda Elástica 5cm;479
+ITEM-0023;Termómetro Digital;478
+ITEM-0024;Jeringa 5ml;477
+ITEM-0025;Jeringa 5ml;476
+ITEM-0026;Gasas 10x10;475
+ITEM-0027;Gasas 10x10;474
+ITEM-0028;Alcohol 70% 1L;473
+ITEM-0029;Mascarilla KN95;472
+ITEM-0030;Alcohol 70% 1L;471
+ITEM-0031;Guante Nitrilo Talla M;470
+ITEM-0032;Venda Elástica 5cm;469
+ITEM-0033;Gasas 10x10;468
+ITEM-0034;Algodón 100g;467
+ITEM-0035;Gasas 10x10;466
+ITEM-0036;Gasas 10x10;465
+ITEM-0037;Gasas 10x10;464
+ITEM-0038;Gasas 10x10;463
+ITEM-0039;Termómetro Digital;462
+ITEM-0040;Guante Nitrilo Talla M;461
+ITEM-0041;Algodón 100g;460
+ITEM-0042;Venda Elástica 5cm;459
+ITEM-0043;Jeringa 5ml;458
+ITEM-0044;Termómetro Digital;457
+ITEM-0045;Mascarilla KN95;456
+ITEM-0046;Termómetro Digital;455
+ITEM-0047;Jeringa 5ml;454
+ITEM-0048;Jeringa 5ml;453
+ITEM-0049;Mascarilla KN95;452
+ITEM-0050;Termómetro Digital;451
+ITEM-0051;Jeringa 5ml;450
+ITEM-0052;Venda Elástica 5cm;449
+ITEM-0053;Termómetro Digital;448
+ITEM-0054;Termómetro Digital;447
+ITEM-0055;Mascarilla KN95;446
+ITEM-0056;Algodón 100g;445
+ITEM-0057;Algodón 100g;444
+ITEM-0058;Gasas 10x10;443
+ITEM-0059;Jeringa 5ml;442
+ITEM-0060;Gasas 10x10;441
+ITEM-0061;Mascarilla KN95;440
+ITEM-0062;Guante Nitrilo Talla M;439
+ITEM-0063;Termómetro Digital;438
+ITEM-0064;Venda Elástica 5cm;437
+ITEM-0065;Alcohol 70% 1L;436
+ITEM-0066;Alcohol 70% 1L;435
+ITEM-0067;Mascarilla KN95;434
+ITEM-0068;Alcohol 70% 1L;433
+ITEM-0069;Gasas 10x10;432
+ITEM-0070;Mascarilla KN95;431
+ITEM-0071;Termómetro Digital;430
+ITEM-0072;Gasas 10x10;429
+ITEM-0073;Algodón 100g;428
+ITEM-0074;Alcohol 70% 1L;427
+ITEM-0075;Jeringa 5ml;426
+ITEM-0076;Termómetro Digital;425
+ITEM-0077;Venda Elástica 5cm;424
+ITEM-0078;Guante Nitrilo Talla M;423
+ITEM-0079;Algodón 100g;422
+ITEM-0080;Guante Nitrilo Talla M;421
+ITEM-0081;Algodón 100g;420
+ITEM-0082;Venda Elástica 5cm;419
+ITEM-0083;Jeringa 5ml;418
+ITEM-0084;Algodón 100g;417
+ITEM-0085;Alcohol 70% 1L;416
+ITEM-0086;Venda Elástica 5cm;415
+ITEM-0087;Jeringa 5ml;414
+ITEM-0088;Guante Nitrilo Talla M;413
+ITEM-0089;Venda Elástica 5cm;412
+ITEM-0090;Alcohol 70% 1L;411
+ITEM-0091;Venda Elástica 5cm;410
+ITEM-0092;Gasas 10x10;409
+ITEM-0093;Gasas 10x10;408
+ITEM-0094;Guante Nitrilo Talla M;407
+ITEM-0095;Mascarilla KN95;406
+ITEM-0096;Termómetro Digital;405
+ITEM-0097;Gasas 10x10;404
+ITEM-0098;Termómetro Digital;403
+ITEM-0099;Termómetro Digital;402
+ITEM-0100;Guante Nitrilo Talla M;401
+ITEM-0101;Alcohol 70% 1L;400
+ITEM-0102;Guante Nitrilo Talla M;399
+ITEM-0103;Mascarilla KN95;398
+ITEM-0104;Jeringa 5ml;397
+ITEM-0105;Gasas 10x10;396
+ITEM-0106;Algodón 100g;395
+ITEM-0107;Alcohol 70% 1L;394
+ITEM-0108;Mascarilla KN95;393
+ITEM-0109;Jeringa 5ml;392
+ITEM-0110;Mascarilla KN95;391
+ITEM-0111;Alcohol 70% 1L;390
+ITEM-0112;Guante Nitrilo Talla M;389
+ITEM-0113;Jeringa 5ml;388
+ITEM-0114;Algodón 100g;387
+ITEM-0115;Termómetro Digital;386
+ITEM-0116;Alcohol 70% 1L;385
+ITEM-0117;Alcohol 70% 1L;384
+ITEM-0118;Termómetro Digital;383
+ITEM-0119;Guante Nitrilo Talla M;382
+ITEM-0120;Jeringa 5ml;381
+ITEM-0121;Gasas 10x10;380
+ITEM-0122;Mascarilla KN95;379
+ITEM-0123;Algodón 100g;378
+ITEM-0124;Guante Nitrilo Talla M;377
+ITEM-0125;Venda Elástica 5cm;376
+ITEM-0126;Jeringa 5ml;375
+ITEM-0127;Algodón 100g;374
+ITEM-0128;Gasas 10x10;373
+ITEM-0129;Alcohol 70% 1L;372
+ITEM-0130;Venda Elástica 5cm;371
+ITEM-0131;Alcohol 70% 1L;370
+ITEM-0132;Guante Nitrilo Talla M;369
+ITEM-0133;Algodón 100g;368
+ITEM-0134;Termómetro Digital;367
+ITEM-0135;Guante Nitrilo Talla M;366
+ITEM-0136;Algodón 100g;365
+ITEM-0137;Venda Elástica 5cm;364
+ITEM-0138;Mascarilla KN95;363
+ITEM-0139;Guante Nitrilo Talla M;362
+ITEM-0140;Venda Elástica 5cm;361
+ITEM-0141;Alcohol 70% 1L;360
+ITEM-0142;Venda Elástica 5cm;359
+ITEM-0143;Jeringa 5ml;358
+ITEM-0144;Alcohol 70% 1L;357
+ITEM-0145;Venda Elástica 5cm;356
+ITEM-0146;Gasas 10x10;355
+ITEM-0147;Guante Nitrilo Talla M;354
+ITEM-0148;Venda Elástica 5cm;353
+ITEM-0149;Venda Elástica 5cm;352
+ITEM-0150;Gasas 10x10;351
+ITEM-0151;Termómetro Digital;350
+ITEM-0152;Termómetro Digital;349
+ITEM-0153;Gasas 10x10;348
+ITEM-0154;Gasas 10x10;347
+ITEM-0155;Alcohol 70% 1L;346
+ITEM-0156;Termómetro Digital;345
+ITEM-0157;Guante Nitrilo Talla M;344
+ITEM-0158;Mascarilla KN95;343
+ITEM-0159;Jeringa 5ml;342
+ITEM-0160;Guante Nitrilo Talla M;341
+ITEM-0161;Jeringa 5ml;340
+ITEM-0162;Guante Nitrilo Talla M;339
+ITEM-0163;Venda Elástica 5cm;338
+ITEM-0164;Mascarilla KN95;337
+ITEM-0165;Algodón 100g;336
+ITEM-0166;Termómetro Digital;335
+ITEM-0167;Mascarilla KN95;334
+ITEM-0168;Guante Nitrilo Talla M;333
+ITEM-0169;Jeringa 5ml;332
+ITEM-0170;Mascarilla KN95;331
+ITEM-0171;Venda Elástica 5cm;330
+ITEM-0172;Guante Nitrilo Talla M;329
+ITEM-0173;Venda Elástica 5cm;328
+ITEM-0174;Mascarilla KN95;327
+ITEM-0175;Alcohol 70% 1L;326
+ITEM-0176;Venda Elástica 5cm;325
+ITEM-0177;Algodón 100g;324
+ITEM-0178;Algodón 100g;323
+ITEM-0179;Termómetro Digital;322
+ITEM-0180;Algodón 100g;321
+ITEM-0181;Venda Elástica 5cm;320
+ITEM-0182;Gasas 10x10;319
+ITEM-0183;Termómetro Digital;318
+ITEM-0184;Termómetro Digital;317
+ITEM-0185;Venda Elástica 5cm;316
+ITEM-0186;Mascarilla KN95;315
+ITEM-0187;Alcohol 70% 1L;314
+ITEM-0188;Algodón 100g;313
+ITEM-0189;Alcohol 70% 1L;312
+ITEM-0190;Algodón 100g;311
+ITEM-0191;Gasas 10x10;310
+ITEM-0192;Mascarilla KN95;309
+ITEM-0193;Venda Elástica 5cm;308
+ITEM-0194;Alcohol 70% 1L;307
+ITEM-0195;Alcohol 70% 1L;306
+ITEM-0196;Venda Elástica 5cm;305
+ITEM-0197;Mascarilla KN95;304
+ITEM-0198;Mascarilla KN95;303
+ITEM-0199;Termómetro Digital;302
+ITEM-0200;Algodón 100g;301
+ITEM-0201;Gasas 10x10;300
+ITEM-0202;Termómetro Digital;299
+ITEM-0203;Venda Elástica 5cm;298
+ITEM-0204;Termómetro Digital;297
+ITEM-0205;Guante Nitrilo Talla M;296
+ITEM-0206;Venda Elástica 5cm;295
+ITEM-0207;Algodón 100g;294
+ITEM-0208;Mascarilla KN95;293
+ITEM-0209;Guante Nitrilo Talla M;292
+ITEM-0210;Alcohol 70% 1L;291
+ITEM-0211;Algodón 100g;290
+ITEM-0212;Venda Elástica 5cm;289
+ITEM-0213;Gasas 10x10;288
+ITEM-0214;Guante Nitrilo Talla M;287
+ITEM-0215;Gasas 10x10;286
+ITEM-0216;Termómetro Digital;285
+ITEM-0217;Guante Nitrilo Talla M;284
+ITEM-0218;Gasas 10x10;283
+ITEM-0219;Alcohol 70% 1L;282
+ITEM-0220;Jeringa 5ml;281
+ITEM-0221;Venda Elástica 5cm;280
+ITEM-0222;Venda Elástica 5cm;279
+ITEM-0223;Algodón 100g;278
+ITEM-0224;Guante Nitrilo Talla M;277
+ITEM-0225;Gasas 10x10;276
+ITEM-0226;Termómetro Digital;275
+ITEM-0227;Venda Elástica 5cm;274
+ITEM-0228;Venda Elástica 5cm;273
+ITEM-0229;Termómetro Digital;272
+ITEM-0230;Alcohol 70% 1L;271
+ITEM-0231;Gasas 10x10;270
+ITEM-0232;Venda Elástica 5cm;269
+ITEM-0233;Algodón 100g;268
+ITEM-0234;Venda Elástica 5cm;267
+ITEM-0235;Mascarilla KN95;266
+ITEM-0236;Jeringa 5ml;265
+ITEM-0237;Alcohol 70% 1L;264
+ITEM-0238;Guante Nitrilo Talla M;263
+ITEM-0239;Gasas 10x10;262
+ITEM-0240;Termómetro Digital;261
+ITEM-0241;Algodón 100g;260
+ITEM-0242;Alcohol 70% 1L;259
+ITEM-0243;Mascarilla KN95;258
+ITEM-0244;Mascarilla KN95;257
+ITEM-0245;Termómetro Digital;256
+ITEM-0246;Jeringa 5ml;255
+ITEM-0247;Mascarilla KN95;254
+ITEM-0248;Termómetro Digital;253
+ITEM-0249;Jeringa 5ml;252
+ITEM-0250;Alcohol 70% 1L;251
+ITEM-0251;Gasas 10x10;250
+ITEM-0252;Alcohol 70% 1L;249
+ITEM-0253;Termómetro Digital;248
+ITEM-0254;Gasas 10x10;247
+ITEM-0255;Termómetro Digital;246
+ITEM-0256;Alcohol 70% 1L;245
+ITEM-0257;Venda Elástica 5cm;244
+ITEM-0258;Venda Elástica 5cm;243
+ITEM-0259;Alcohol 70% 1L;242
+ITEM-0260;Mascarilla KN95;241
+ITEM-0261;Mascarilla KN95;240
+ITEM-0262;Gasas 10x10;239
+ITEM-0263;Gasas 10x10;238
+ITEM-0264;Venda Elástica 5cm;237
+ITEM-0265;Jeringa 5ml;236
+ITEM-0266;Alcohol 70% 1L;235
+ITEM-0267;Jeringa 5ml;234
+ITEM-0268;Gasas 10x10;233
+ITEM-0269;Jeringa 5ml;232
+ITEM-0270;Termómetro Digital;231
+ITEM-0271;Guante Nitrilo Talla M;230
+ITEM-0272;Venda Elástica 5cm;229
+ITEM-0273;Venda Elástica 5cm;228
+ITEM-0274;Termómetro Digital;227
+ITEM-0275;Gasas 10x10;226
+ITEM-0276;Alcohol 70% 1L;225
+ITEM-0277;Alcohol 70% 1L;224
+ITEM-0278;Mascarilla KN95;223
+ITEM-0279;Algodón 100g;222
+ITEM-0280;Termómetro Digital;221
+ITEM-0281;Algodón 100g;220
+ITEM-0282;Algodón 100g;219
+ITEM-0283;Alcohol 70% 1L;218
+ITEM-0284;Gasas 10x10;217
+ITEM-0285;Venda Elástica 5cm;216
+ITEM-0286;Alcohol 70% 1L;215
+ITEM-0287;Termómetro Digital;214
+ITEM-0288;Termómetro Digital;213
+ITEM-0289;Venda Elástica 5cm;212
+ITEM-0290;Gasas 10x10;211
+ITEM-0291;Gasas 10x10;210
+ITEM-0292;Gasas 10x10;209
+ITEM-0293;Algodón 100g;208
+ITEM-0294;Guante Nitrilo Talla M;207
+ITEM-0295;Alcohol 70% 1L;206
+ITEM-0296;Gasas 10x10;205
+ITEM-0297;Mascarilla KN95;204
+ITEM-0298;Gasas 10x10;203
+ITEM-0299;Gasas 10x10;202
+ITEM-0300;Venda Elástica 5cm;201
+ITEM-0301;Jeringa 5ml;200
+ITEM-0302;Venda Elástica 5cm;199
+ITEM-0303;Mascarilla KN95;198
+ITEM-0304;Alcohol 70% 1L;197
+ITEM-0305;Mascarilla KN95;196
+ITEM-0306;Jeringa 5ml;195
+ITEM-0307;Mascarilla KN95;194
+ITEM-0308;Gasas 10x10;193
+ITEM-0309;Mascarilla KN95;192
+ITEM-0310;Alcohol 70% 1L;191
+ITEM-0311;Gasas 10x10;190
+ITEM-0312;Gasas 10x10;189
+ITEM-0313;Gasas 10x10;188
+ITEM-0314;Venda Elástica 5cm;187
+ITEM-0315;Guante Nitrilo Talla M;186
+ITEM-0316;Guante Nitrilo Talla M;185
+ITEM-0317;Alcohol 70% 1L;184
+ITEM-0318;Guante Nitrilo Talla M;183
+ITEM-0319;Mascarilla KN95;182
+ITEM-0320;Jeringa 5ml;181
+ITEM-0321;Algodón 100g;180
+ITEM-0322;Guante Nitrilo Talla M;179
+ITEM-0323;Termómetro Digital;178
+ITEM-0324;Mascarilla KN95;177
+ITEM-0325;Mascarilla KN95;176
+ITEM-0326;Termómetro Digital;175
+ITEM-0327;Jeringa 5ml;174
+ITEM-0328;Algodón 100g;173
+ITEM-0329;Mascarilla KN95;172
+ITEM-0330;Termómetro Digital;171
+ITEM-0331;Alcohol 70% 1L;170
+ITEM-0332;Guante Nitrilo Talla M;169
+ITEM-0333;Gasas 10x10;168
+ITEM-0334;Termómetro Digital;167
+ITEM-0335;Algodón 100g;166
+ITEM-0336;Termómetro Digital;165
+ITEM-0337;Termómetro Digital;164
+ITEM-0338;Jeringa 5ml;163
+ITEM-0339;Venda Elástica 5cm;162
+ITEM-0340;Gasas 10x10;161
+ITEM-0341;Venda Elástica 5cm;160
+ITEM-0342;Venda Elástica 5cm;159
+ITEM-0343;Venda Elástica 5cm;158
+ITEM-0344;Algodón 100g;157
+ITEM-0345;Gasas 10x10;156
+ITEM-0346;Venda Elástica 5cm;155
+ITEM-0347;Alcohol 70% 1L;154
+ITEM-0348;Venda Elástica 5cm;153
+ITEM-0349;Jeringa 5ml;152
+ITEM-0350;Termómetro Digital;151
+ITEM-0351;Alcohol 70% 1L;150
+ITEM-0352;Mascarilla KN95;149
+ITEM-0353;Termómetro Digital;148
+ITEM-0354;Jeringa 5ml;147
+ITEM-0355;Gasas 10x10;146
+ITEM-0356;Alcohol 70% 1L;145
+ITEM-0357;Guante Nitrilo Talla M;144
+ITEM-0358;Mascarilla KN95;143
+ITEM-0359;Algodón 100g;142
+ITEM-0360;Algodón 100g;141
+ITEM-0361;Jeringa 5ml;140
+ITEM-0362;Gasas 10x10;139
+ITEM-0363;Venda Elástica 5cm;138
+ITEM-0364;Venda Elástica 5cm;137
+ITEM-0365;Jeringa 5ml;136
+ITEM-0366;Gasas 10x10;135
+ITEM-0367;Termómetro Digital;134
+ITEM-0368;Termómetro Digital;133
+ITEM-0369;Termómetro Digital;132
+ITEM-0370;Mascarilla KN95;131
+ITEM-0371;Termómetro Digital;130
+ITEM-0372;Guante Nitrilo Talla M;129
+ITEM-0373;Alcohol 70% 1L;128
+ITEM-0374;Algodón 100g;127
+ITEM-0375;Termómetro Digital;126
+ITEM-0376;Jeringa 5ml;125
+ITEM-0377;Jeringa 5ml;124
+ITEM-0378;Venda Elástica 5cm;123
+ITEM-0379;Guante Nitrilo Talla M;122
+ITEM-0380;Guante Nitrilo Talla M;121
+ITEM-0381;Mascarilla KN95;120
+ITEM-0382;Termómetro Digital;119
+ITEM-0383;Termómetro Digital;118
+ITEM-0384;Mascarilla KN95;117
+ITEM-0385;Guante Nitrilo Talla M;116
+ITEM-0386;Alcohol 70% 1L;115
+ITEM-0387;Algodón 100g;114
+ITEM-0388;Gasas 10x10;113
+ITEM-0389;Mascarilla KN95;112
+ITEM-0390;Venda Elástica 5cm;111
+ITEM-0391;Algodón 100g;110
+ITEM-0392;Venda Elástica 5cm;109
+ITEM-0393;Guante Nitrilo Talla M;108
+ITEM-0394;Algodón 100g;107
+ITEM-0395;Guante Nitrilo Talla M;106
+ITEM-0396;Jeringa 5ml;105
+ITEM-0397;Venda Elástica 5cm;104
+ITEM-0398;Mascarilla KN95;103
+ITEM-0399;Alcohol 70% 1L;102
+ITEM-0400;Algodón 100g;101
+ITEM-0401;Termómetro Digital;100
+ITEM-0402;Mascarilla KN95;99
+ITEM-0403;Alcohol 70% 1L;98
+ITEM-0404;Gasas 10x10;97
+ITEM-0405;Alcohol 70% 1L;96
+ITEM-0406;Algodón 100g;95
+ITEM-0407;Venda Elástica 5cm;94
+ITEM-0408;Venda Elástica 5cm;93
+ITEM-0409;Venda Elástica 5cm;92
+ITEM-0410;Gasas 10x10;91
+ITEM-0411;Jeringa 5ml;90
+ITEM-0412;Algodón 100g;89
+ITEM-0413;Guante Nitrilo Talla M;88
+ITEM-0414;Guante Nitrilo Talla M;87
+ITEM-0415;Guante Nitrilo Talla M;86
+ITEM-0416;Gasas 10x10;85
+ITEM-0417;Venda Elástica 5cm;84
+ITEM-0418;Termómetro Digital;83
+ITEM-0419;Termómetro Digital;82
+ITEM-0420;Gasas 10x10;81
+ITEM-0421;Gasas 10x10;80
+ITEM-0422;Venda Elástica 5cm;79
+ITEM-0423;Venda Elástica 5cm;78
+ITEM-0424;Gasas 10x10;77
+ITEM-0425;Algodón 100g;76
+ITEM-0426;Mascarilla KN95;75
+ITEM-0427;Venda Elástica 5cm;74
+ITEM-0428;Termómetro Digital;73
+ITEM-0429;Mascarilla KN95;72
+ITEM-0430;Termómetro Digital;71
+ITEM-0431;Guante Nitrilo Talla M;70
+ITEM-0432;Venda Elástica 5cm;69
+ITEM-0433;Venda Elástica 5cm;68
+ITEM-0434;Alcohol 70% 1L;67
+ITEM-0435;Algodón 100g;66
+ITEM-0436;Mascarilla KN95;65
+ITEM-0437;Guante Nitrilo Talla M;64
+ITEM-0438;Termómetro Digital;63
+ITEM-0439;Mascarilla KN95;62
+ITEM-0440;Jeringa 5ml;61
+ITEM-0441;Guante Nitrilo Talla M;60
+ITEM-0442;Termómetro Digital;59
+ITEM-0443;Gasas 10x10;58
+ITEM-0444;Algodón 100g;57
+ITEM-0445;Gasas 10x10;56
+ITEM-0446;Jeringa 5ml;55
+ITEM-0447;Guante Nitrilo Talla M;54
+ITEM-0448;Alcohol 70% 1L;53
+ITEM-0449;Jeringa 5ml;52
+ITEM-0450;Guante Nitrilo Talla M;51
+ITEM-0451;Termómetro Digital;50
+ITEM-0452;Venda Elástica 5cm;49
+ITEM-0453;Algodón 100g;48
+ITEM-0454;Gasas 10x10;47
+ITEM-0455;Algodón 100g;46
+ITEM-0456;Jeringa 5ml;45
+ITEM-0457;Algodón 100g;44
+ITEM-0458;Termómetro Digital;43
+ITEM-0459;Guante Nitrilo Talla M;42
+ITEM-0460;Gasas 10x10;41
+ITEM-0461;Jeringa 5ml;40
+ITEM-0462;Venda Elástica 5cm;39
+ITEM-0463;Termómetro Digital;38
+ITEM-0464;Algodón 100g;37
+ITEM-0465;Venda Elástica 5cm;36
+ITEM-0466;Gasas 10x10;35
+ITEM-0467;Termómetro Digital;34
+ITEM-0468;Venda Elástica 5cm;33
+ITEM-0469;Venda Elástica 5cm;32
+ITEM-0470;Mascarilla KN95;31
+ITEM-0471;Termómetro Digital;30
+ITEM-0472;Jeringa 5ml;29
+ITEM-0473;Jeringa 5ml;28
+ITEM-0474;Mascarilla KN95;27
+ITEM-0475;Mascarilla KN95;26
+ITEM-0476;Jeringa 5ml;25
+ITEM-0477;Mascarilla KN95;24
+ITEM-0478;Mascarilla KN95;23
+ITEM-0479;Jeringa 5ml;22
+ITEM-0480;Termómetro Digital;21
+ITEM-0481;Venda Elástica 5cm;20
+ITEM-0482;Termómetro Digital;19
+ITEM-0483;Venda Elástica 5cm;18
+ITEM-0484;Mascarilla KN95;17
+ITEM-0485;Mascarilla KN95;16
+ITEM-0486;Alcohol 70% 1L;15
+ITEM-0487;Algodón 100g;14
+ITEM-0488;Algodón 100g;13
+ITEM-0489;Venda Elástica 5cm;12
+ITEM-0490;Gasas 10x10;11
+ITEM-0491;Mascarilla KN95;10
+ITEM-0492;Guante Nitrilo Talla M;9
+ITEM-0493;Mascarilla KN95;8
+ITEM-0494;Alcohol 70% 1L;7
+ITEM-0495;Venda Elástica 5cm;6
+ITEM-0496;Termómetro Digital;5
+ITEM-0497;Mascarilla KN95;4
+ITEM-0498;Termómetro Digital;3
+ITEM-0499;Jeringa 5ml;2
+ITEM-0500;Jeringa 5ml;1
