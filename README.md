@@ -130,12 +130,22 @@ Pasa de O(n²) a casi O(n).
 ---
 
 ### **¿Qué papel juegan los duplicados?**
-- Inserción y Burbuja → **estables**, mantienen el orden  
-- Selección → **inestable**, puede invertir duplicados
+- Inserción y Burbuja
+   **estables**
+  - mantienen el orden  
+- Selección
+   **inestable**
+  - puede invertir duplicados
 
 ---
 
 ### **¿Por qué Burbuja con corte temprano mejora en casi ordenado pero no en inverso?**
 
-- **Casi ordenado:** no hay swaps → se activa el corte → termina en O(n)  
-- **Inverso:** siempre hay swaps → nunca corta → sigue siendo O(n²)
+- **Casi ordenado:**
+- no hay swaps
+- se activa el corte
+- termina en O(n)  
+- **Inverso:**
+- siempre hay swaps
+- nunca corta
+- sigue siendo O(n²)
