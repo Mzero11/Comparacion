@@ -7,55 +7,81 @@
 </pre>
 
 
-1.	Objetivo(s) de la Práctica\n:
+1.	Objetivo(s) de la Práctica:
 
    
-•	Ejecutar y analizar comparativamente los algoritmos de Burbuja, Selección e Inserción sobre casos de prueba, para determinar cuándo conviene cada uno en función de tamaño, grado de orden y duplicados.
+   •Ejecutar y analizar comparativamente los algoritmos de Burbuja, Selección e Inserción sobre casos de prueba, para determinar cuándo conviene cada uno en función de tamaño, grado de orden y duplicados.
 
-3.	Materiales y reactivos:
+2.	Materiales y reactivos:
 
 
 •	Guía de pruebas con datasets y salidas esperadas.
 
-4.	Equipos y herramientas
+3.	Equipos y herramientas
 
 
-•	JDK OpenJDK (obligatorio).    
-•	IDE: Visual Studio Code (extensión “Extension Pack for Java”) o IntelliJ IDEA
-Community.
-•	Sistema de control de versiones: Git; repositorio en GitHub.
-•	EVA/Moodle institucional: para entrega de evidencias.
-•	Herramientas de documentación: README Markdown, editor ofimático (Google Docs/LibreOffice/Word).
- 
-6.	Procedimiento / Metodología
+   •	JDK OpenJDK (obligatorio).    
+   •	IDE: Visual Studio Code (extensión “Extension Pack for Java”) o IntelliJ IDEA
+        Community.
+   •	Sistema de control de versiones: Git; repositorio en GitHub.
+   •	EVA/Moodle institucional: para entrega de evidencias.
+   •	Herramientas de documentación: README Markdown, editor ofimático (Google Docs/LibreOffice/Word).
+         
+4.	Procedimiento / Metodología
+
 Enfoque metodológico: ABPr (Aprendizaje Basado en Proyectos). Inicio
+
 •	Presentación del objetivo comparativo y criterios de éxito.
+
 •	Formación de equipos (3–4) y revisión de la rúbrica.
+
 •	Creación de repo Git.
+
 •	Lineamientos de uso responsable de IA. Desarrollo
+
 •	Paso 1. Instrumentación (obligatorio)
+
 o	Añade contadores a tus algoritmos:
+
 	comparisons++ al comparar dos claves,
+
 	swaps++ al intercambiar posiciones.
+
 o	Mide tiempo con `System.nanoTime()` sin imprimir durante la medición (las trazas distorsionan).
+
 o	Ejecuta R repeticiones por caso (sug.: R=10), descarta las 3 primeras (calentamiento/JIT) y reporta la mediana de tiempo.
+
 o	Aísla IO: carga CSV fuera de la medición; mide sólo el ordenamiento del array en memoria.
+
 •	Paso 2. Casos de prueba
+
 o	Define clave de orden (p. ej., `fechaHora` en `citas`, `apellido` en
 `pacientes`, `stock` en `inventario`).
+
 o	Convierte a array de la clave (o a registros con `Comparable` por clave).
+
 o	Ejecuta: Insertion, Selection, Bubble (con “corte temprano” en
 Burbuja).
+
 o	Registra: n, %casi-ordenado, %duplicados, comparisons, swaps, tiempo(ns) (mediana de R-3 corridas).
+
 •	Paso 3. Análisis
+
 o	Tablas comparativas por caso (n, orden, duplicados) y gráficos (tiempo vs. n; tiempo vs. %casi-ordenado).
+
 o	Matriz de recomendación (reglas prácticas):
+
 	Casi ordenado + n pequeño/medio → Inserción gana (menos
 movimientos).
+
+
 	Muchos duplicados → Inserción tiende a mantener estabilidad útil; Selección hace n(n−1)/2 comparaciones siempre, con pocos swaps.
 	Inverso o aleatorio (n pequeño/educativo) → cualquiera, pero Burbuja penaliza; Selección constante en comparaciones; Inserción peor en inverso pero mejor si detecta localmente orden.
+
 Cierre
+
 •	Discusión guiada: ¿Cuándo conviene cada uno? ¿Qué sesgos introdujo la medición?
+
 •	Completar	README	e	informe	con	evidencias	y	la	matriz	de recomendación.
  
 
@@ -71,7 +97,7 @@ Cierre
 
 ![Ejecución](https://i.postimg.cc/hPtzwzY6/Imagen2.png)
 
-6.	Preguntas de Control:
+8.	Preguntas de Control:
 •	¿Por qué imprimir trazas durante la medición distorsiona los tiempos?
 
 Imprimir en consola es una de las operaciones más lentas que puede ejecutar un programa Java, porque involucra operaciones de entrada y salida, obliga al programa a esperar a que el sistema procese la salida
