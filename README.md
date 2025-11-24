@@ -1,4 +1,8 @@
-Ordenación	básica	en	Java:	Burbuja, Selección e Inserción
+<h1 align="center"><strong>Ordenación básica en Java: Burbuja, Selección e Inserción</strong></h1>
+
+Integrantes: 
+             Yober Gaona
+             Mateo Silva
 
 1.	Objetivo(s) de la Práctica:
 •	Ejecutar y analizar comparativamente los algoritmos de Burbuja, Selección e Inserción sobre casos de prueba, para determinar cuándo conviene cada uno en función de tamaño, grado de orden y duplicados.
