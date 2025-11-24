@@ -1,12 +1,9 @@
 # **Ordenación básica en Java: Burbuja, Selección e Inserción**
 
 ## **Integrantes**
-Yober Gaona
-Mateo Silva
-
-yaml
-Copy code
-
+- Yober Gaona
+- Mateo Silva
+  
 ---
 
 ## **1. Objetivo(s) de la Práctica**
@@ -77,10 +74,10 @@ Copy code
 - Gráficos (tiempo vs n, tiempo vs % orden)
 - Matriz de recomendación:
 
-  - Casi ordenado → Inserción  
-  - Muchos duplicados → Inserción (estable)  
-  - Minimizar swaps → Selección  
-  - Aleatorio / inverso → Selección o Inserción  
+  - Casi ordenado Inserción  
+  - Muchos duplicados Inserción (estable)  
+  - Minimizar swaps Selección  
+  - Aleatorio / inverso Selección o Inserción  
   - Burbuja penaliza en general  
 
 ---
@@ -89,9 +86,6 @@ Copy code
 
 - Tabla por dataset:
 n | tipo | algoritmo | comparisons | swaps | tiempo_mediana(ns)
-
-yaml
-Copy code
 
 - Gráficos (opcionales)
 - Matriz de recomendación final
