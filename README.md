@@ -7,21 +7,27 @@
 </pre>
 
 
-1.	Objetivo(s) de la Práctica:
+1.	Objetivo(s) de la Práctica\n:
+
+   
 •	Ejecutar y analizar comparativamente los algoritmos de Burbuja, Selección e Inserción sobre casos de prueba, para determinar cuándo conviene cada uno en función de tamaño, grado de orden y duplicados.
 
-2.	Materiales y reactivos:
+3.	Materiales y reactivos:
+
+
 •	Guía de pruebas con datasets y salidas esperadas.
 
-3.	Equipos y herramientas
-•	JDK OpenJDK (obligatorio).
+4.	Equipos y herramientas
+
+
+•	JDK OpenJDK (obligatorio).    
 •	IDE: Visual Studio Code (extensión “Extension Pack for Java”) o IntelliJ IDEA
 Community.
 •	Sistema de control de versiones: Git; repositorio en GitHub.
 •	EVA/Moodle institucional: para entrega de evidencias.
 •	Herramientas de documentación: README Markdown, editor ofimático (Google Docs/LibreOffice/Word).
  
-4.	Procedimiento / Metodología
+6.	Procedimiento / Metodología
 Enfoque metodológico: ABPr (Aprendizaje Basado en Proyectos). Inicio
 •	Presentación del objetivo comparativo y criterios de éxito.
 •	Formación de equipos (3–4) y revisión de la rúbrica.
@@ -54,7 +60,7 @@ Cierre
  
 
  
-5.	Resultados esperados:
+7.	Resultados esperados:
 •	Tabla	por	dataset:	`n,	tipo	(aleat/casi-ord/dup/inverso),	algoritmo, comparisons, swaps, tiempo_mediana(ns)`.
 •	Gráficos (opcional): barras o líneas para tiempo y comparaciones.
 •	Matriz de recomendación (texto/tabla): “si casi ordenado y n≤500 → Inserción”, “si minimizar swaps → Selección”, etc.
