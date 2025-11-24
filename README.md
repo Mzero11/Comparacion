@@ -54,10 +54,9 @@ Cierre
 •	Capturas/Logs de ejecución (sin trazas durante medición).
 •	Código con instrumentación y scripts de generación de datasets (si aplica).
 
-[url=https://postimg.cc/JtSzHnMF][img]https://i.postimg.cc/JtSzHnMF/Imagen1.png[/img][/url]
+![Codígo](https://i.postimg.cc/SNx2525m/Imagen1.png)
 
-[url=https://postimg.cc/YjTCL9Mz][img]https://i.postimg.cc/YjTCL9Mz/Imagen2.png[/img][/url]
-
+![Ejecución](https://i.postimg.cc/hPtzwzY6/Imagen2.png)
 
 6.	Preguntas de Control:
 •	¿Por qué imprimir trazas durante la medición distorsiona los tiempos?
