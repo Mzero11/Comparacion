@@ -63,9 +63,6 @@
 
 n, %casi-ordenado, %duplicados, comparisons, swaps, tiempo(ns)
 
-yaml
-Copy code
-
 ---
 
 ### **Paso 3: Análisis**
