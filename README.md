@@ -1,10 +1,9 @@
-<h1 align="center"><strong>Ordenación básica en Java: Burbuja, Selección e Inserción</strong></h1>
+Ordenación básica en Java: Burbuja, Selección e Inserción
+Integrantes:
 
-<p><strong>Integrantes:</strong></p>
-<pre>
     Yober Gaona
     Mateo Silva
-</pre>
+
 
 
 1.	Objetivo(s) de la Práctica:
